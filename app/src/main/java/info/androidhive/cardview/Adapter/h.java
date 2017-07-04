@@ -5,4 +5,6 @@ package info.androidhive.cardview.Adapter;
  */
 
 public class h {
+    int d=3;
+
 }
